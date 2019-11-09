@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Campus Snake 125</string>
+    <string name="service_name">Campus Snake 125 Location Observer</string>
+    <string name="notification_text">Tracking location because you\'re in a game</string>
+    <string name="create_game">Create Game</string>
+    <string-array name="team_choices">
+        <item>Observer</item>
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+</resources>
